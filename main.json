@@ -1,4 +1,11 @@
 { "compressionlevel":-1,
+ "editorsettings":
+    {
+     "export":
+        {
+         "target":"."
+        }
+    },
  "height":14,
  "infinite":false,
  "layers":[
@@ -12,7 +19,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/raeuberinnenhoehle21.cooarchi.net\/input "
+                 "value":"https:\/\/raeuberinnenhoehle21.cooarchi.net\/"
                 }],
          "type":"tilelayer",
          "visible":true,
